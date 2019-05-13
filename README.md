@@ -20,6 +20,8 @@ Presentations about data science.
 
 - [Safe Driver Prediction for Automobile Insurance](https://github.com/mu-mandayam/DataScience/blob/master/Supervised_Learning_Capstone/Sup_Learning_Capstone_Safe_Driver.ipynb) by Murali Mandayam. Correctly classifying a driver during underwriting is an important aspect in automobile insurance. All the supervised learning algorithms I used classify a driver as a 1, to indicate safe driver, or 0, to indicate that the drivers' information needs a review prior to issuing a policy.
 
+- [Predicting Heart Disease](https://github.com/gaddyc/Supervised-Learning) by Charla Gaddy
+
 ## Unsupervised learning report
 
 - [Math lectures Part 1](https://github.com/ExtraLime/math-lectures) Combine NLP with supervised and unsupervised learning to classify math lectures. By William Morgan.
